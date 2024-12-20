@@ -1,4 +1,4 @@
-# Python
+# python
 Gồm file WORD (báo cáo), CODE, EXCEL (data)
 
 🫵File này chuyên import những báo cáo liên quan đến python và chế học hoặc chán quá nên tự chém... Hơi gà
